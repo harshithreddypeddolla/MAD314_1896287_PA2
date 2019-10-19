@@ -6,4 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".secondpage">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="283dp"
+        android:layout_height="216dp"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="194dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

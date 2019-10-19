@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
-
 public class student {
+
+    String name;
+    Integer id;
+    String password;
+
 }
